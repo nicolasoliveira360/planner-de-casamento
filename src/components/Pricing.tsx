@@ -52,10 +52,15 @@ const Pricing = () => {
             ))}
           </div>
 
-          <button className="bg-gradient-to-r from-gold-400 to-gold-500 hover:from-gold-500 hover:to-gold-600 text-olive-900 font-bold py-4 px-8 md:px-10 rounded-full text-[16px] md:text-[17px] transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 transform uppercase relative overflow-hidden group">
+          <a 
+            href="https://pay.hotmart.com/P99156857X?off=qvo2krj2"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-gradient-to-r from-gold-400 to-gold-500 hover:from-gold-500 hover:to-gold-600 text-olive-900 font-bold py-4 px-8 md:px-10 rounded-full text-[16px] md:text-[17px] transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 transform uppercase relative overflow-hidden group"
+          >
             <span className="relative z-10">Comprar Agora!</span>
             <div className="absolute inset-0 bg-gradient-to-r from-white/0 to-white/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-          </button>
+          </a>
 
           <div className="grid md:grid-cols-3 gap-6">
             {guarantees.map((guarantee, index) => (
