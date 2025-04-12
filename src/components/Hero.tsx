@@ -37,7 +37,7 @@ const Hero = () => {
           <iframe
             width="100%"
             height="100%"
-            src="https://www.youtube.com/embed/FoQqnQOanMY"
+            src="https://www.youtube.com/embed/FoQqnQOanMY?autoplay=1&mute=1&controls=1&rel=0&modestbranding=1"
             title="Planner de Casamento Digital"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
