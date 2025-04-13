@@ -11,12 +11,12 @@ const benefits = [
 const guarantees = [
   {
     icon: "💰",
-    title: "Garantia incondicional de 30 dias",
+    title: "Garantia de 30 dias",
     description: "Se você não amar, devolvemos 100% do seu dinheiro. Simples assim."
   },
   {
     icon: "📱",
-    title: "Acesso vitalício e multiplataforma",
+    title: "Acesso vitalício",
     description: "Use no seu celular, computador ou tablet, onde e quando quiser."
   },
   {
@@ -41,7 +41,6 @@ const Pricing = () => {
           <div className="flex items-center justify-center gap-2 mb-6 md:mb-8">
             <span className="text-olive-400 text-[16px] line-through">R$ 97,00</span>
             <span className="text-[28px] md:text-[32px] font-bold text-olive-600">R$ 47,00</span>
-            <span className="text-olive-400 text-[14px] md:text-[15px]">(pagamento único)</span>
           </div>
 
           <div className="space-y-3 md:space-y-4 mb-6 md:mb-8">

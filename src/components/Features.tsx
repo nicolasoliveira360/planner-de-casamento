@@ -2,31 +2,31 @@ import Image from 'next/image';
 
 const features = [
   {
-    title: "✅ Checklist Completo – 12 meses de planejamento passo a passo",
+    title: "✅ Planejamento completo em 65 passos.​",
     description: "Você vai saber exatamente o que fazer em cada mês, desde os primeiros sonhos até o altar. São 65 passos detalhados para não esquecer nada e evitar surpresas.",
     image: "/img/1.png",
     highlight: "65 passos detalhados"
   },
   {
-    title: "💰 Orçamento Inteligente do Casamento",
+    title: "💰 Controle total do orçamento.",
     description: "Tenha controle real do seu dinheiro: registre o valor previsto, o que foi realmente gasto, se já pagou e para quem. Tudo em um só lugar, acessível com poucos cliques.",
     image: "/img/2.png",
     highlight: "Economize milhares de reais"
   },
   {
-    title: "📝 Lista de Convidados com Confirmação de Presença",
+    title: "📝 Lista de convidados com confirmação de presença.​",
     description: "Cadastre os nomes um a um ou por família, acompanhe quem confirmou presença e tenha clareza no número final. Evite gastos desnecessários e garanta uma recepção perfeita.",
     image: "/img/3.png",
     highlight: "Organize todos os convidados"
   },
   {
-    title: "📋 Gerenciador de Fornecedores",
+    title: "📋 Gerenciamento de fornecedores.",
     description: "Organize todos os fornecedores por categoria, acompanhe orçamentos, contatos, endereços e o status de cada contratação. Esqueça as anotações soltas e ganhe praticidade.",
     image: "/img/4.png",
     highlight: "Gerencie todos os contratos"
   },
   {
-    title: "🗓️ Calendário do Grande Dia",
+    title: "🗓️ Calendário personalizado do grande dia.",
     description: "Crie o cronograma do seu casamento minuto a minuto: do momento que acordar até o fim da festa. Chega de dúvidas e ansiedade – seu dia será leve, lindo e sem atrasos.",
     image: "/img/5.png",
     highlight: "Cronograma minuto a minuto"
